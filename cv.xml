@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="ISO-8859-10" ?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+<cv>
+	
+	<title>
+		Curriculum Vitae: Joakim Olsson
+	</title>
+	
+	<lastupdated>
+		<date year="2013" month="4" day="30" />
+	</lastupdated>
+	
+	<header>
+		Curriculum Vitae - Joakim Olsson
+	</header>
+	
+	<section name="introduction" lang="sv">
+		<title lang="sv">Introduktion</title>
+		<text>
+			<p>
+				Jag &#228;r en 25 &#229;r gammal kille med 3 &#229;rs gymnasieutbildning inom
+				Data/IT vid IT-gymnasiet Uppsala, en p&#229;g&#229;ende utbildning i
+				datavetenskap vid Uppsala Universitet och ett brinnande intresse
+				f&#246;r program- och system-utveckling.
+			</p>
+			<p>
+				Jag &#228;r fr&#228;mst intresserad av objekt-orienterad utveckling och utveckling
+				med
+				<link href="http://sv.wikipedia.org/wiki/Agil_systemutveckling">agila metoder</link>
+				d&#228;rtill f&#246;rs&#246;ker jag h&#229;lla
+				<link href="http://en.wikipedia.org/wiki/SOLID">SOLID-principerna</link>
+				i &#229;tanke n&#228;r jag arbetar.
+			</p>
+			<p>
+				Exempel p&#229; mitt arbete finns h&#228;r: <link href="http://user.it.uu.se/~jool0581/Code">user.it.uu.se/~jool0581/Code</link>
+			</p>
+		</text>
+	</section>
+	<section name="quick-info">
+		<title lang="sv">Info i korthet</title>
+		<info>
+			<item lang="sv">F&#246;rnamn</item>
+			<value>Joakim</value>
+		</info>
+		<info>
+			<item lang="sv">Efternamn</item>
+			<value>Olsson</value>
+		</info>
+		<info>
+			<item lang="sv">F&#246;dd</item>
+			<value><date year="1988" month="2" day="26" /></value>
+		</info>
+		<info type="email">
+			<item lang="sv">Email</item>
+			<value>joakimolsson1024@gmail.com</value>
+		</info>
+		<info type="telephone">
+			<item lang="sv">Mobil</item>
+			<value>070-6040618</value>
+		</info>
+		<info type="telephone">
+			<item lang="sv">Hemtelefon</item>
+			<value>070-6040618</value>
+		</info>
+		<info type="adress">
+			<item lang="sv">Hemadress</item>
+			<value><adress street="Torbj&#246;rnsgatan" number="6" city="Uppsala" postalnumber="75335" /></value>
+		</info>
+	</section>
+	<section name="history" break-before="true">
+		<title lang="sv">Historik</title>
+		<text lang="sv">
+			<p>Den h&#228;r sektionen listar i kronologisk ordning (efter slutdatum) utbildningar, uppdrag och jobb som jag utf&#246;rt under mitt liv.</p>
+		</text>
+		<event>
+			<date type="start" year="2011" month="3" />
+			<title lang="sv">Tj&#228;nstg&#246;ring Oxk&#228;llans Hunds&#228;llskaps styrelse</title>
+			<description>
+				<text>
+					<link href="http://oxkallan.se">Oxk&#228;llans Hunds&#228;llskap</link> &#228;r en liten f&#246;rening f&#246;r hund&#228;gare som
+					h&#229;ller hundhagar f&#246;r allm&#228;nt bruk i Uppsala-stadsdelarna N&#229;ntuna och Bergsbrunna.
+				</text>
+				<event>
+					<date type="start" year="2013" month="3" />
+					<title lang="sv">Som ordf&#246;rande</title>
+					<description>
+						Som ordf&#246;rande dirigerar jag f&#246;reningens arbete och agerar spr&#229;krör.
+					</description>
+				</event>
+				<event>
+					<date type="start" year="2012" month="3" />
+					<title lang="sv">Som sekreterare</title>
+					<description>
+						Som sekreterare f&#246;r jag protokoll &#246;ver f&#246;reningensm&#246;ten och underh&#229;ller f&#246;reningens
+						<link href="http://oxkallan.se">hemsida</link> och mail-system.
+					</description>
+				</event>
+				<event>
+					<date type="start" year="2011" month="3" />
+					<date type="end" year="2012" month="3" />
+					<title lang="sv">Som suppleant</title>
+					<description>
+						Som suppleant deltog jag i m&#246;ten, kom med f&#246;rslag och stod till styrelsens allm&#228;nna f&#246;rfogande.
+					</description>
+				</event>
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2009" month="8" />
+			<title lang="sv">Studier p&#229; kandidat-programmet i Datavetenskap vid Uppsala Universitet</title>
+			<description>
+				Har i nul&#228;get l&#228;st 180hp och s&#246;ker ett exjobb f&#246;r att slutf&#246;ra
+				min kandidatexamen.
+				<tech>
+					2009-10-14: Baskurs i matematik	5 hp (1MA010), Resultat: 5
+				</tech>
+				<tech>
+					2009-10-23: Introduktion till informationsteknologi 10 hp (1DT051), Resultat: G
+				</tech>
+				<tech>
+					2009-11-23: Studieteknik 1 hp (1TN000), Resultat: G
+				</tech>
+				<tech>
+					2009-12-11: Linjär algebra och geometri I 5 hp (1MA025), Resultat: 3
+				</tech> 
+				<tech>
+					2009-12-18: Algebra I 5 hp (1MA004)	3
+				</tech>
+				<tech>
+					2010-03-15: Datajuridik och handelsrätt	5 hp (2HR117), Resultat: G
+				</tech> 
+				<tech>
+					2010-03-19: Programkonstruktion	10 hp (1DL200), Resultat: 4
+				</tech>
+				<tech>
+					2010-05-25: Digitalteknik och datorarkitektur 5 hp (1DT033), Resultat: 4
+				</tech>
+				<tech>
+					2010-05-28: Logik och bevisteknik I	5 hp (1MA027), Resultat: 3
+				</tech> 
+				<tech>
+					2010-06-03: Algoritmer och datastrukturer I 5 hp (1DL210), Resultat: 4
+				</tech>
+				<tech>
+					2010-08-13: Webbplatskonstruktion 7,5 hp (1DT055), Resultat: 5
+				</tech>
+				<tech>
+					2010-08-18: Derivator och integraler 5 hp (1MA014), Resultat: 3
+				</tech>
+				<tech>
+					2010-10-20: Människa-datorinteraktion 5 hp (1MD016), Resultat: 3
+				</tech>
+				<tech>
+					2010-10-25: Automatateori 5 hp (1MA009), Resultat: 3
+				</tech>
+				<tech>
+					2011-01-14: Diskret matematik 5 hp (1MA012), Resultat: 3
+				</tech>
+				<tech>
+					2011-02-01: Imperativ och objektorienterad programmering 10 hp (1DL220), Resultat: 5
+				</tech>
+				<tech>
+					2011-06-03: Processorienterad programmering 15 hp (1DT083), Resultat: 3
+				</tech>
+				<tech>
+					2011-08-11: Dataspelsutveckling I 7,5 hp (1DT023), Resultat: 4
+				</tech>
+				<tech>
+					2011-10-25: Objektorienterad design 5 hp (1DL240), Resultat: 5
+				</tech>
+				<tech>
+					2011-11-25: Datakommunikation I 5 hp (1DT052), Resultat: 3
+				</tech> 
+				<tech>
+					2011-12-19: Programmeringsteori 10 hp (1DT007), Resultat: 3
+				</tech> 
+				<tech>
+					2011-12-20: Testmetodik 5 hp (1DT053), Resultat: 4
+				</tech> 
+				<tech>
+					2012-01-13: Kompilatorteknik I 5 hp (1DL320), Resultat: 4
+				</tech>
+				<tech>
+					2012-03-13: Gränssnittsprogrammering I 5 hp (1MD002), Resultat: 5
+				</tech>
+				<tech>
+					2012-06-10: Introduktion till 3D-grafik 15 hp (KGK740, HGO), Resultat: G
+				</tech>
+				<tech>
+					2012-10-24: Artificiell intelligens 5 hp (1DL340), Resultat: 3
+				</tech>
+				<tech>
+					2013-01-15: Realtidssystem 10 hp (1DT004), Resultat: 3
+				</tech>
+				<tech>
+					2013-01-23: Dotnetprogrammering 15 hp (2AD168), Resultat: G
+				</tech>
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2006" month="1" />
+			<title lang="sv">Arbetar för I&amp;T Olsson</title>
+			<description>
+				Arbetar som IT-support för I&amp;T Olsson. Jobbet involverar underhåll av företagets interna nätverk, installation av ny hårdvara/mjukvara,
+				felsökning av nuvarande hårdvaru/mjukvaru-lösningar samt periodvis underhåll av företagets hemsida.
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2011" month="6" />
+			<date type="end" year="2011" month="8" />
+			<title lang="sv">Sommarkurs i Speldesign</title>
+			<description>
+				Gick en sommarkurs i Speldesign med 2D-grafik. Huvuddelen av kursen gick till ett projekt d&#228;r jag
+				och 2 andra studenter f&#246;rs&#246;kte bygga en special-designad spelmotor. (Betyg: 4/VG)
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2010" month="6" />
+			<date type="end" year="2010" month="8" />
+			<title lang="sv">Sommarkurs i Webdesign</title>
+			<description>
+				Gick en sommarkurs f&#246;r att f&#246;rb&#228;ttra p&#229; mina webbdesign-kunskaper. Kursen omfattade HTML4-5, CSS2-3,
+				AJAX, Javascript (med JQuery) och PHP. (Betyg: 5/MVG)
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2009" month="6" />
+			<date type="end" year="2009" month="8" />
+			<title lang="sv">Konverterade I&amp;T Olssons hemsida</title>
+			<description>
+				Jag skrev om <link href="http://ito.se">I&amp;T Olssons hemsida</link> fr&#229;n en statisk upps&#228;ttning HTML-dokument till en som anv&#228;nder Joomla.
+				Designade &#228;ven om hemsidan till dess nuvarande utseende.
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2009" month="1" />
+			<date type="end" year="2009" month="6" />
+			<title lang="sv">Studier Data/Systemvetenskap vid Uppsala Universitet</title>
+			<description>
+				Jag l&#228;ste under v&#229;rterminen 2009 grundl&#228;ggande kurser i program/system-utveckling, Databas-design och allm&#228;nn IT.
+				<tech>
+					2009-02-19: Datavetenskap 7,5hp (2AD321), Resultat: G
+				</tech>
+				<tech>
+					2009-03-23: Systemutveckling 7,5hp (2AD322), Resultat: VG
+				</tech>
+				<tech>
+					2009-05-14: Programutveckling 7,5hp (2AD323), Resultat:  VG
+				</tech>
+				<tech>
+					2009-06-04: Databaser 7,5hp (2AD324), Resultat: G
+				</tech>
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2008" month="1" />
+			<date type="end" year="2008" month="11" />
+			<title lang="sv">Milit&#228;rtj&#228;nstg&#246;ring (Lumpen)</title>
+			<description>
+				Tj&#228;nstgjorde som Stabsassistent vid LV6 i Halmstad.
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2004" month="8" />
+			<date type="end" year="2007" month="6" />
+			<title lang="sv">Studier p&#229; IT-Gymnasiet Uppsala</title>
+			<description>
+				IT-Gymnasiet &#228;r en friskola med inriktning p&#229; IT/data. Jag l&#228;ste d&#228;r ett ut&#246;kat program
+				som omfattade bland annat:
+				<tech>Psykologi</tech>
+				<tech>Programmering i Java (Funktionell)</tech>
+				<tech>Mattematik (A-D)</tech>
+				<tech>Databas-design</tech>
+				<tech>Biologi (A-B)</tech>
+			</description>
+		</event>
+		<event>
+			<date type="end" year="2004" month="6" />
+			<title lang="sv">Gick ut grundskolan</title>
+			<description>
+				Gick ut grundskolan vid S&#228;vjaskolan i Uppsala.
+			</description>
+		</event>
+	</section>
+	<section name="languages" break-before="true">
+		<title lang="sv">Spr&#229;k</title>
+		<text lang="sv">Spr&#229;k som jag har god f&#246;rst&#229;else f&#246;r.</text>
+		<language>
+			<name lang="sv">Engelska</name>
+		</language>
+		<language>
+			<name lang="sv">Svenska</name>
+		</language>
+	</section>
+	<section name="technologies">
+		<title lang="sv">Tekniska f&#228;rdigheter</title>
+		<section name="programming">
+			<title lang="sv">Programmering</title>
+			<text lang="sv">Programmeringsspr&#229;k som jag har erfartenhet av att arbeta i.</text>
+			<tech>C</tech>
+			<tech>C#</tech>
+			<tech>CSS</tech>
+			<tech>HTML</tech>
+			<tech>Java</tech>
+			<tech>JavaScript</tech>
+			<tech>PHP</tech>
+			<tech>SQL</tech>
+			<tech>XML</tech>
+			<tech>XSL</tech>
+		</section>
+		<section name="software">
+			<title lang="sv">Mjukvaror</title>
+			<text lang="sv">Mjukvarul&#246;sningar/tj&#228;nster som jag har erfartenhet av att anv&#228;nda.</text>
+			<tech>Apache Web Server</tech>
+			<tech>Git</tech>
+			<tech>SVN</tech>
+			<tech>Eclipse</tech>
+			<tech>MySQL</tech>
+			<tech>ShiftEdit</tech>
+			<tech>Joomla</tech>
+		</section>
+		<section name="operatingSystems">
+			<title lang="sv">Operativsystem</title>
+			<text lang="sv">Operativsystem som jag har erfarenhet av att arbeta i.</text>
+			<tech>Unix</tech>
+			<tech>Windows</tech>
+		</section>
+	</section>
+</cv>
