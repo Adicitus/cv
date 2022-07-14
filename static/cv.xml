@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-10" ?>
+<?xml version="1.0" encoding="UTF8" ?>
 <?xml-stylesheet type="text/xsl" href="cv.xsl"?>
 <cv>
 	
@@ -7,7 +7,7 @@
 	</title>
 	
 	<lastupdated>
-		<date year="2013" month="4" day="30" />
+		<date year="2022" month="7" day="13" />
 	</lastupdated>
 	
 	<header>
@@ -18,28 +18,24 @@
 		<title lang="sv">Introduktion</title>
 		<text>
 			<p>
-				Jag &#228;r en 25 &#229;r gammal kille med 3 &#229;rs gymnasieutbildning inom
-				Data/IT vid IT-gymnasiet Uppsala, en p&#229;g&#229;ende utbildning i
-				datavetenskap vid Uppsala Universitet och ett brinnande intresse
-				f&#246;r program- och system-utveckling.
+				Jag har precis spenderat 6 år på Cornerstone Group AB, där jag jobbat som installationstekniker.
 			</p>
 			<p>
-				Jag &#228;r fr&#228;mst intresserad av objekt-orienterad utveckling och utveckling
-				med
-				<link href="http://sv.wikipedia.org/wiki/Agil_systemutveckling">agila metoder</link>
-				d&#228;rtill f&#246;rs&#246;ker jag h&#229;lla
-				<link href="http://en.wikipedia.org/wiki/SOLID">SOLID-principerna</link>
-				i &#229;tanke n&#228;r jag arbetar.
+				Som del av mitt arbete skötte jag främst administration och utveckling av våra kurs-miljöer och associerade system.
+
 			</p>
 			<p>
-				Exempel p&#229; mitt arbete finns h&#228;r: <link href="http://user.it.uu.se/~jool0581/Code">user.it.uu.se/~jool0581/Code</link>
+				Jag är främst intresserad av objekt-orienterad programmering och utveckling av distribuerade system.
+			</p>
+			<p>
+				Exempel på mitt arbete finns på <link href="https://github.com/Adicitus">Github</link>
 			</p>
 		</text>
 	</section>
 	<section name="quick-info">
 		<title lang="sv">Info i korthet</title>
 		<info>
-			<item lang="sv">F&#246;rnamn</item>
+			<item lang="sv">Förnamn</item>
 			<value>Joakim</value>
 		</info>
 		<info>
@@ -47,51 +43,54 @@
 			<value>Olsson</value>
 		</info>
 		<info>
-			<item lang="sv">F&#246;dd</item>
+			<item lang="sv">Född</item>
 			<value><date year="1988" month="2" day="26" /></value>
 		</info>
 		<info type="email">
 			<item lang="sv">Email</item>
-			<value>joakimolsson1024@gmail.com</value>
+			<value>joakim.olsson@adicitus.cloud</value>
 		</info>
 		<info type="telephone">
 			<item lang="sv">Mobil</item>
-			<value>070-6040618</value>
+			<value>073-5673693</value>
 		</info>
 		<info type="telephone">
 			<item lang="sv">Hemtelefon</item>
-			<value>070-6040618</value>
+			<value>073-5673693</value>
 		</info>
 		<info type="adress">
 			<item lang="sv">Hemadress</item>
-			<value><adress street="Torbj&#246;rnsgatan" number="6" city="Uppsala" postalnumber="75335" /></value>
+			<value><adress street="Torbjörnsgatan" number="6" city="Uppsala" postalnumber="75335" /></value>
 		</info>
 	</section>
 	<section name="history" break-before="true">
 		<title lang="sv">Historik</title>
 		<text lang="sv">
-			<p>Den h&#228;r sektionen listar i kronologisk ordning (efter slutdatum) utbildningar, uppdrag och jobb som jag utf&#246;rt under mitt liv.</p>
+			<p>Den här sektionen listar i kronologisk ordning (efter slutdatum) utbildningar, uppdrag och jobb som jag utfört under mitt liv.</p>
 		</text>
 		<event>
 			<date type="start" year="2011" month="3" />
-			<title lang="sv">Tj&#228;nstg&#246;ring Oxk&#228;llans Hunds&#228;llskaps styrelse</title>
+			<date type="end" year="2017" />
+			<title lang="sv">Tjänstgöring Oxkällans Hundsällskaps styrelse</title>
 			<description>
 				<text>
-					<link href="http://oxkallan.se">Oxk&#228;llans Hunds&#228;llskap</link> &#228;r en liten f&#246;rening f&#246;r hund&#228;gare som
-					h&#229;ller hundhagar f&#246;r allm&#228;nt bruk i Uppsala-stadsdelarna N&#229;ntuna och Bergsbrunna.
+					Oxkällans Hundsällskap var en liten förening för hundägare som
+					håller hundhagar för allmänt bruk i Uppsala-stadsdelarna Nåntuna och Bergsbrunna.
 				</text>
 				<event>
 					<date type="start" year="2013" month="3" />
-					<title lang="sv">Som ordf&#246;rande</title>
+					<date type="end" year="2017" />
+					<title lang="sv">Som ordförande</title>
 					<description>
-						Som ordf&#246;rande dirigerar jag f&#246;reningens arbete och agerar spr&#229;kr�r.
+						Som ordförande dirigerar jag föreningens arbete och agerar språkrör.
 					</description>
 				</event>
 				<event>
 					<date type="start" year="2012" month="3" />
+					<date type="end" year="2017" />
 					<title lang="sv">Som sekreterare</title>
 					<description>
-						Som sekreterare f&#246;r jag protokoll &#246;ver f&#246;reningensm&#246;ten och underh&#229;ller f&#246;reningens
+						Som sekreterare för jag protokoll över föreningensmöten och underhåller föreningens
 						<link href="http://oxkallan.se">hemsida</link> och mail-system.
 					</description>
 				</event>
@@ -100,16 +99,17 @@
 					<date type="end" year="2012" month="3" />
 					<title lang="sv">Som suppleant</title>
 					<description>
-						Som suppleant deltog jag i m&#246;ten, kom med f&#246;rslag och stod till styrelsens allm&#228;nna f&#246;rfogande.
+						Som suppleant deltog jag i möten, kom med förslag och stod till styrelsens allmänna förfogande.
 					</description>
 				</event>
 			</description>
 		</event>
 		<event>
 			<date type="start" year="2009" month="8" />
-			<title lang="sv">Studier p&#229; kandidat-programmet i Datavetenskap vid Uppsala Universitet</title>
+			<date type="end" year="2015" />
+			<title lang="sv">Studier på kandidat-programmet i Datavetenskap vid Uppsala Universitet</title>
 			<description>
-				Har i nul&#228;get l&#228;st 180hp och s&#246;ker ett exjobb f&#246;r att slutf&#246;ra
+				Har i nuläget läst 180hp och söker ett exjobb för att slutföra
 				min kandidatexamen.
 				<tech>
 					2009-10-14: Baskurs i matematik	5 hp (1MA010), Resultat: 5
@@ -121,13 +121,13 @@
 					2009-11-23: Studieteknik 1 hp (1TN000), Resultat: G
 				</tech>
 				<tech>
-					2009-12-11: Linj�r algebra och geometri I 5 hp (1MA025), Resultat: 3
+					2009-12-11: Linjär algebra och geometri I 5 hp (1MA025), Resultat: 3
 				</tech> 
 				<tech>
 					2009-12-18: Algebra I 5 hp (1MA004)	3
 				</tech>
 				<tech>
-					2010-03-15: Datajuridik och handelsr�tt	5 hp (2HR117), Resultat: G
+					2010-03-15: Datajuridik och handelsrätt	5 hp (2HR117), Resultat: G
 				</tech> 
 				<tech>
 					2010-03-19: Programkonstruktion	10 hp (1DL200), Resultat: 4
@@ -148,7 +148,7 @@
 					2010-08-18: Derivator och integraler 5 hp (1MA014), Resultat: 3
 				</tech>
 				<tech>
-					2010-10-20: M�nniska-datorinteraktion 5 hp (1MD016), Resultat: 3
+					2010-10-20: Människa-datorinteraktion 5 hp (1MD016), Resultat: 3
 				</tech>
 				<tech>
 					2010-10-25: Automatateori 5 hp (1MA009), Resultat: 3
@@ -181,7 +181,7 @@
 					2012-01-13: Kompilatorteknik I 5 hp (1DL320), Resultat: 4
 				</tech>
 				<tech>
-					2012-03-13: Gr�nssnittsprogrammering I 5 hp (1MD002), Resultat: 5
+					2012-03-13: Gränssnittsprogrammering I 5 hp (1MD002), Resultat: 5
 				</tech>
 				<tech>
 					2012-06-10: Introduktion till 3D-grafik 15 hp (KGK740, HGO), Resultat: G
@@ -198,20 +198,12 @@
 			</description>
 		</event>
 		<event>
-			<date type="start" year="2006" month="1" />
-			<title lang="sv">Arbetar f�r I&amp;T Olsson</title>
-			<description>
-				Arbetar som IT-support f�r I&amp;T Olsson. Jobbet involverar underh�ll av f�retagets interna n�tverk, installation av ny h�rdvara/mjukvara,
-				fels�kning av nuvarande h�rdvaru/mjukvaru-l�sningar samt periodvis underh�ll av f�retagets hemsida.
-			</description>
-		</event>
-		<event>
 			<date type="start" year="2011" month="6" />
 			<date type="end" year="2011" month="8" />
 			<title lang="sv">Sommarkurs i Speldesign</title>
 			<description>
-				Gick en sommarkurs i Speldesign med 2D-grafik. Huvuddelen av kursen gick till ett projekt d&#228;r jag
-				och 2 andra studenter f&#246;rs&#246;kte bygga en special-designad spelmotor. (Betyg: 4/VG)
+				Gick en sommarkurs i Speldesign med 2D-grafik. Huvuddelen av kursen gick till ett projekt där jag
+				och 2 andra studenter försökte bygga en special-designad spelmotor. (Betyg: 4/VG)
 			</description>
 		</event>
 		<event>
@@ -219,7 +211,7 @@
 			<date type="end" year="2010" month="8" />
 			<title lang="sv">Sommarkurs i Webdesign</title>
 			<description>
-				Gick en sommarkurs f&#246;r att f&#246;rb&#228;ttra p&#229; mina webbdesign-kunskaper. Kursen omfattade HTML4-5, CSS2-3,
+				Gick en sommarkurs för att förbättra på mina webbdesign-kunskaper. Kursen omfattade HTML4-5, CSS2-3,
 				AJAX, Javascript (med JQuery) och PHP. (Betyg: 5/MVG)
 			</description>
 		</event>
@@ -228,8 +220,8 @@
 			<date type="end" year="2009" month="8" />
 			<title lang="sv">Konverterade I&amp;T Olssons hemsida</title>
 			<description>
-				Jag skrev om <link href="http://ito.se">I&amp;T Olssons hemsida</link> fr&#229;n en statisk upps&#228;ttning HTML-dokument till en som anv&#228;nder Joomla.
-				Designade &#228;ven om hemsidan till dess nuvarande utseende.
+				Jag skrev om <link href="http://ito.se">I&amp;T Olssons hemsida</link> från en statisk uppsättning HTML-dokument till en som använder Joomla.
+				Designade även om hemsidan till dess nuvarande utseende.
 			</description>
 		</event>
 		<event>
@@ -237,7 +229,7 @@
 			<date type="end" year="2009" month="6" />
 			<title lang="sv">Studier Data/Systemvetenskap vid Uppsala Universitet</title>
 			<description>
-				Jag l&#228;ste under v&#229;rterminen 2009 grundl&#228;ggande kurser i program/system-utveckling, Databas-design och allm&#228;nn IT.
+				Jag läste under vårterminen 2009 grundläggande kurser i program/system-utveckling, Databas-design och allmänn IT.
 				<tech>
 					2009-02-19: Datavetenskap 7,5hp (2AD321), Resultat: G
 				</tech>
@@ -255,17 +247,26 @@
 		<event>
 			<date type="start" year="2008" month="1" />
 			<date type="end" year="2008" month="11" />
-			<title lang="sv">Milit&#228;rtj&#228;nstg&#246;ring (Lumpen)</title>
+			<title lang="sv">Militärtjänstgöring (Lumpen)</title>
 			<description>
-				Tj&#228;nstgjorde som Stabsassistent vid LV6 i Halmstad.
+				Tjänstgjorde som Stabsassistent vid LV6 i Halmstad.
+			</description>
+		</event>
+		<event>
+			<date type="start" year="2006" month="1" />
+			<date type="end" year="2009" />
+			<title lang="sv">Arbetar för I&amp;T Olsson</title>
+			<description>
+				Arbetar som IT-support för I&amp;T Olsson. Jobbet involverar underhåll av företagets interna nätverk, installation av ny hårdvara/mjukvara,
+				felsökning av nuvarande hårdvaru/mjukvaru-lösningar samt periodvis underhåll av företagets hemsida.
 			</description>
 		</event>
 		<event>
 			<date type="start" year="2004" month="8" />
 			<date type="end" year="2007" month="6" />
-			<title lang="sv">Studier p&#229; IT-Gymnasiet Uppsala</title>
+			<title lang="sv">Studier på IT-Gymnasiet Uppsala</title>
 			<description>
-				IT-Gymnasiet &#228;r en friskola med inriktning p&#229; IT/data. Jag l&#228;ste d&#228;r ett ut&#246;kat program
+				IT-Gymnasiet är en friskola med inriktning på IT/data. Jag läste där ett utökat program
 				som omfattade bland annat:
 				<tech>Psykologi</tech>
 				<tech>Programmering i Java (Funktionell)</tech>
@@ -278,13 +279,13 @@
 			<date type="end" year="2004" month="6" />
 			<title lang="sv">Gick ut grundskolan</title>
 			<description>
-				Gick ut grundskolan vid S&#228;vjaskolan i Uppsala.
+				Gick ut grundskolan vid Sävjaskolan i Uppsala.
 			</description>
 		</event>
 	</section>
 	<section name="languages" break-before="true">
-		<title lang="sv">Spr&#229;k</title>
-		<text lang="sv">Spr&#229;k som jag har god f&#246;rst&#229;else f&#246;r.</text>
+		<title lang="sv">Språk</title>
+		<text lang="sv">Språk som jag har god förståelse för.</text>
 		<language>
 			<name lang="sv">Engelska</name>
 		</language>
@@ -293,12 +294,10 @@
 		</language>
 	</section>
 	<section name="technologies">
-		<title lang="sv">Tekniska f&#228;rdigheter</title>
+		<title lang="sv">Tekniska färdigheter</title>
 		<section name="programming">
 			<title lang="sv">Programmering</title>
-			<text lang="sv">Programmeringsspr&#229;k som jag har erfartenhet av att arbeta i.</text>
-			<tech>C</tech>
-			<tech>C#</tech>
+			<text lang="sv">Programmerings- och markdown-språk som jag har erfartenhet av att arbeta i.</text>
 			<tech>CSS</tech>
 			<tech>HTML</tech>
 			<tech>Java</tech>
@@ -307,22 +306,37 @@
 			<tech>SQL</tech>
 			<tech>XML</tech>
 			<tech>XSL</tech>
+			<tech>YML</tech>
+			<tech>JSON</tech>
 		</section>
 		<section name="software">
-			<title lang="sv">Mjukvaror</title>
-			<text lang="sv">Mjukvarul&#246;sningar/tj&#228;nster som jag har erfartenhet av att anv&#228;nda.</text>
-			<tech>Apache Web Server</tech>
+			<title lang="sv">Verktyg</title>
+			<text lang="sv">Program och ramverk som jag har erfartenhet av att använda.</text>
 			<tech>Git</tech>
-			<tech>SVN</tech>
-			<tech>Eclipse</tech>
-			<tech>MySQL</tech>
-			<tech>ShiftEdit</tech>
-			<tech>Joomla</tech>
+			<tech>Node.js</tech>
+			<tech>React</tech>
+			<tech>Powershell</tech>
+			<tech>Visual Studio Code</tech>
+			<tech>Azure</tech>
+			<tech>Azure AD</tech>
+			<tech>Active Directory</tech>
+			<tech>Microsoft InTune</tech>
+			<tech>SSH</tech>
+			<tech>bash</tech>
+			<tech>Docker</tech>
+			<tech>Docker-Compose</tech>
+			<tech>Multipass</tech>
+			<tech>Apache Guacamole</tech>
+			<tech>DNS</tech>
+			<tech>DHCP</tech>
+			<tech>SPF</tech>
+			<tech>DMARC</tech>
+			<tech>SMTP</tech>
 		</section>
 		<section name="operatingSystems">
 			<title lang="sv">Operativsystem</title>
-			<text lang="sv">Operativsystem som jag har erfarenhet av att arbeta i.</text>
-			<tech>Unix</tech>
+			<text lang="sv">Operativsystem som jag är bekväm med att arbeta i.</text>
+			<tech>Linux</tech>
 			<tech>Windows</tech>
 		</section>
 	</section>
