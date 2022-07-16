@@ -69,6 +69,18 @@
 			<p>Den här sektionen listar i kronologisk ordning (efter slutdatum) utbildningar, uppdrag och jobb som jag utfört under mitt liv.</p>
 		</text>
 		<event>
+			<date type="start" year="2016" month="9" />
+			<date type="end" year="2022" month="7" />
+			<title>Installationstekniker på Cornerstone Group AB</title>
+			<description>
+				<text>
+					Som installationstekniker så var jag främst ansvarig för deployment av labbmiljöer för utbildning.
+					Därtill så var jag även ansvarig för närliggande delar av verksamheten: utveckling och underhåll av de mjukvaruverktyg,
+					nätverk och labbmaskiner som krävdes för kursverksamheten.
+				</text>
+			</description>
+		</event>
+		<event>
 			<date type="start" year="2011" month="3" />
 			<date type="end" year="2017" />
 			<title lang="sv">Tjänstgöring Oxkällans Hundsällskaps styrelse</title>
@@ -106,7 +118,7 @@
 		</event>
 		<event>
 			<date type="start" year="2009" month="8" />
-			<date type="end" year="2015" />
+			<date type="end" year="2013" />
 			<title lang="sv">Studier på kandidat-programmet i Datavetenskap vid Uppsala Universitet</title>
 			<description>
 				Har i nuläget läst 180hp och söker ett exjobb för att slutföra
