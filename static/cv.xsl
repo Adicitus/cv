@@ -47,9 +47,7 @@
 			</span>
 		</xsl:if>
 		<div>
-			<xsl:attribute name="class">
-				section <xsl:value-of select="@name"/>
-			</xsl:attribute>
+			<xsl:attribute name="class">section <xsl:value-of select="@name"/></xsl:attribute>
 			<xsl:apply-templates select="section | text | info | event | language | tech | date" />
 		</div>
 	</xsl:template>
@@ -147,8 +145,7 @@
 	
 	<xsl:template match="adress">
 		<span class="adress">
-			<span class="street"><xsl:value-of select="@street"/> </span>
-			<span class="number"><xsl:value-of select="@number"/></span>, 
+			<span class="street"><xsl:value-of select="@street"/></span>&#160;<span class="number"><xsl:value-of select="@number"/></span>, 
 			<span class="city"><xsl:value-of select="@city"/></span>
 		</span>
 	</xsl:template>

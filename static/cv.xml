@@ -7,7 +7,7 @@
 	</title>
 	
 	<lastupdated>
-		<date year="2022" month="7" day="13" />
+		<date year="2022" month="7" day="16" />
 	</lastupdated>
 	
 	<header>
@@ -74,9 +74,13 @@
 			<title>Installationstekniker på Cornerstone Group AB</title>
 			<description>
 				<text>
-					Som installationstekniker så var jag främst ansvarig för deployment av labbmiljöer för utbildning.
-					Därtill så var jag även ansvarig för närliggande delar av verksamheten: utveckling och underhåll av de mjukvaruverktyg,
-					nätverk och labbmaskiner som krävdes för kursverksamheten.
+					<p>
+						Som installationstekniker så var jag främst ansvarig för deployment av labbmiljöer för utbildning.
+					</p>
+					<p>
+						Därtill så var jag även ansvarig för närliggande delar av verksamheten: utveckling och underhåll av de mjukvaruverktyg,
+						nätverk och labbmaskiner som krävdes för kursverksamheten.
+					</p>
 				</text>
 			</description>
 		</event>

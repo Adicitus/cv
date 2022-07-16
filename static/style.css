@@ -11,6 +11,7 @@ body, body *{
 	background:inherit;
 	font-family:"Courier New", Courier, monospace;
 	text-decoration:none;
+	box-sizing: border-box;
 }
 
 /***** Main rules *****/
@@ -64,8 +65,7 @@ a:hover{
 .section{
 	display:block;
 	border:1px solid #888;
-	padding:7px;
-	margin-bottom:0.7em;
+	padding:1ex;
 	margin:0 1.3ex 1.3ex 1.3ex;
 	background:#EEE;
 	border-radius:2px;
@@ -85,10 +85,22 @@ a:hover{
 }
 
 .text{
-	border-radius:8px 0 0 0;
+	border-radius:5px;
 	border:dashed 2px #AAA;
-	border-width:2px 0 0 2px;
-	padding-left:5px;
+	padding: 1ex;
+	background-color: #e5e5e5;
+}
+
+.text > p:last-child {
+	margin-bottom: 0;
+}
+
+.section > .text {
+	border-radius: 0 5px 5px 0;
+	border: dashed 2px #AAA;
+	border-width: 2px 2px 2px 0;
+	padding: 1ex;
+	margin: 0 0 0 -1ex;
 }
 
 /***** Section: Quick info *****/
@@ -118,7 +130,7 @@ a:hover{
 	display:list-item;
 	list-style-type:circle;
 	list-style-position:inside;
-	margin-bottom:1.3ex;
+	margin: 0.7ex 0 0.7ex 0;
 }
 
 .event .date{
