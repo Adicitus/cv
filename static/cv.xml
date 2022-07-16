@@ -125,8 +125,10 @@
             <date type="end" year="2013" />
             <title lang="sv">Studier på kandidat-programmet i Datavetenskap vid Uppsala Universitet</title>
             <description>
-                Har i nuläget läst 180hp och söker ett exjobb för att slutföra
-                min kandidatexamen.
+                <text>
+                    Har i nuläget läst 180hp och söker ett exjobb för att slutföra
+                    min kandidatexamen.
+                </text>
                 <tech>
                     2009-10-14: Baskurs i matematik    5 hp (1MA010), Resultat: 5
                 </tech>
@@ -218,8 +220,10 @@
             <date type="end" year="2011" month="8" />
             <title lang="sv">Sommarkurs i Speldesign</title>
             <description>
-                Gick en sommarkurs i Speldesign med 2D-grafik. Huvuddelen av kursen gick till ett projekt där jag
-                och 2 andra studenter försökte bygga en special-designad spelmotor. (Betyg: 4/VG)
+                <text>
+                    Gick en sommarkurs i Speldesign med 2D-grafik. Huvuddelen av kursen gick till ett projekt där jag
+                    och 2 andra studenter försökte bygga en special-designad spelmotor. (Betyg: 4/VG)
+                </text>
             </description>
         </event>
         <event>
@@ -227,8 +231,10 @@
             <date type="end" year="2010" month="8" />
             <title lang="sv">Sommarkurs i Webdesign</title>
             <description>
-                Gick en sommarkurs för att förbättra på mina webbdesign-kunskaper. Kursen omfattade HTML4-5, CSS2-3,
-                AJAX, Javascript (med JQuery) och PHP. (Betyg: 5/MVG)
+                <text>
+                    Gick en sommarkurs för att förbättra på mina webbdesign-kunskaper. Kursen omfattade HTML4-5, CSS2-3,
+                    AJAX, Javascript (med JQuery) och PHP. (Betyg: 5/MVG)
+                </text>
             </description>
         </event>
         <event>
@@ -236,8 +242,10 @@
             <date type="end" year="2009" month="8" />
             <title lang="sv">Konverterade I&amp;T Olssons hemsida</title>
             <description>
-                Jag skrev om <link href="http://ito.se">I&amp;T Olssons hemsida</link> från en statisk uppsättning HTML-dokument till en som använder Joomla.
-                Designade även om hemsidan till dess nuvarande utseende.
+                <text>
+                    Jag skrev om <link href="http://ito.se">I&amp;T Olssons hemsida</link> från en statisk uppsättning HTML-dokument till en som använder Joomla.
+                    Designade även om hemsidan till dess nuvarande utseende.
+                </text>
             </description>
         </event>
         <event>
@@ -245,7 +253,9 @@
             <date type="end" year="2009" month="6" />
             <title lang="sv">Studier Data/Systemvetenskap vid Uppsala Universitet</title>
             <description>
-                Jag läste under vårterminen 2009 grundläggande kurser i program/system-utveckling, Databas-design och allmänn IT.
+                <text>
+                    Jag läste under vårterminen 2009 grundläggande kurser i program/system-utveckling, Databas-design och allmänn IT.
+                </text>
                 <tech>
                     2009-02-19: Datavetenskap 7,5hp (2AD321), Resultat: G
                 </tech>
@@ -265,7 +275,9 @@
             <date type="end" year="2008" month="11" />
             <title lang="sv">Militärtjänstgöring (Lumpen)</title>
             <description>
-                Tjänstgjorde som Stabsassistent vid LV6 i Halmstad.
+            <text>
+                    Tjänstgjorde som Stabsassistent vid LV6 i Halmstad.
+            </text>
             </description>
         </event>
         <event>
@@ -273,8 +285,10 @@
             <date type="end" year="2009" />
             <title lang="sv">Arbetar för I&amp;T Olsson</title>
             <description>
-                Arbetar som IT-support för I&amp;T Olsson. Jobbet involverar underhåll av företagets interna nätverk, installation av ny hårdvara/mjukvara,
-                felsökning av nuvarande hårdvaru/mjukvaru-lösningar samt periodvis underhåll av företagets hemsida.
+                <text>
+                    Arbetar som IT-support för I&amp;T Olsson. Jobbet involverar underhåll av företagets interna nätverk, installation av ny hårdvara/mjukvara,
+                    felsökning av nuvarande hårdvaru/mjukvaru-lösningar samt periodvis underhåll av företagets hemsida.
+                </text>
             </description>
         </event>
         <event>
@@ -282,8 +296,9 @@
             <date type="end" year="2007" month="6" />
             <title lang="sv">Studier på IT-Gymnasiet Uppsala</title>
             <description>
-                IT-Gymnasiet är en friskola med inriktning på IT/data. Jag läste där ett utökat program
-                som omfattade bland annat:
+                <text>
+                    IT-Gymnasiet var en friskola med inriktning på IT/data. Jag läste där ett utökat program.
+                </text>
                 <tech>Psykologi</tech>
                 <tech>Programmering i Java (Funktionell)</tech>
                 <tech>Mattematik (A-D)</tech>
@@ -295,7 +310,9 @@
             <date type="end" year="2004" month="6" />
             <title lang="sv">Gick ut grundskolan</title>
             <description>
-                Gick ut grundskolan vid Sävjaskolan i Uppsala.
+                <text>
+                    Gick ut grundskolan vid Sävjaskolan i Uppsala.
+                </text>
             </description>
         </event>
     </section>
