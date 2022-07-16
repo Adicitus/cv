@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-10" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:template match="cv">
 		<html lang="sv">
@@ -19,11 +19,11 @@
 							<xsl:apply-templates select="lastupdated" />
 						</span>
 						<p>
-							Det h‰r dokumentet skapades i XSL.<BR/>
-							Du finner det h‰r: <a href="http://user.it.uu.se/~jool0581/CV">http://user.it.uu.se/~jool0581/CV</a>
+							Det h√§r dokumentet skapades i XSL.<BR/>
+							Du finner det h√§r: <a href="https://cv.adicitus.com">https://cv.adicitus.com</a>
 						</p>
-						<a href="http://jigsaw.w3.org/css-validator/check/referer" class="css-validated">
-							<img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />
+						<a href="https://jigsaw.w3.org/css-validator/" class="css-validated">
+							<img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />
 						</a>
 					</div>
 				</div>
@@ -122,7 +122,7 @@
 						<xsl:apply-templates select="./date[@type='end']" />
 					</xsl:when>
 					<xsl:otherwise>
-						(PÂgÂende)
+						(P√•g√•ende)
 					</xsl:otherwise>
 				</xsl:choose>
 				
