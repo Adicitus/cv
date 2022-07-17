@@ -127,16 +127,12 @@ a:hover{
 /***** Section: History *****/
 
 .event{
-    display:list-item;
-    list-style-type:circle;
-    list-style-position:inside;
-    margin: 0.7ex 0 0.7ex 0;
+    margin: 0.7ex 0 0.7ex 12pt;
 }
 
 .event .date{
     display:block;
     color:#440000;
-    margin-left:12pt;
     font-weight:bold;
 }
 
@@ -152,7 +148,7 @@ a:hover{
 
 .event .description{
     display:block;
-    margin-left:16pt;
+    margin-left:4pt;
     background:#CCC;
     padding:5px;
     border-radius:5px;
