@@ -15,17 +15,20 @@
                     <xsl:apply-templates select="section"/>
                     
                     <div class="footer">
-                        <span class="copyright">&#169; Joakim Olsson</span>
-                        <span class="lastupdated">
-                            <xsl:apply-templates select="lastupdated" />
-                        </span>
-                        <p>
-                            Det här dokumentet skapades i XSL.<BR/>
-                            Du finner det här: <a href="https://cv.adicitus.com">https://cv.adicitus.com</a>
-                        </p>
-                        <a href="https://jigsaw.w3.org/css-validator/" class="css-validated">
-                            <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />
-                        </a>
+                        <div class="footer-content">
+                            <p class="lastupdated meta">
+                                <xsl:apply-templates select="lastupdated" />
+                            </p>
+                            <p>
+                                Det här dokumentet skapades i XSL.
+                            </p>
+                            <p class="meta">
+                                Originalet finner du här: <a href="https://cv.adicitus.com">https://cv.adicitus.com</a>
+                            </p>
+                            <a href="https://jigsaw.w3.org/css-validator/" class="css-validated">
+                                <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />
+                            </a>
+                        </div>
                     </div>
                 </div>
             </body>
