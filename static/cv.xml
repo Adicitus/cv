@@ -22,7 +22,6 @@
             </p>
             <p>
                 Som del av mitt arbete skötte jag främst administration och utveckling av våra kurs-miljöer och associerade system.
-
             </p>
             <p>
                 Jag är främst intresserad av objekt-orienterad programmering och utveckling av distribuerade system.
@@ -52,10 +51,6 @@
         </info>
         <info type="telephone">
             <item lang="sv">Mobil</item>
-            <value>073-5673693</value>
-        </info>
-        <info type="telephone">
-            <item lang="sv">Hemtelefon</item>
             <value>073-5673693</value>
         </info>
         <info type="adress">
@@ -98,7 +93,7 @@
                     <date type="end" year="2017" />
                     <title lang="sv">Som ordförande</title>
                     <description>
-                        Som ordförande dirigerar jag föreningens arbete och agerar språkrör.
+                        Som ordförande dirigerade jag föreningens arbete och agerar språkrör.
                     </description>
                 </event>
                 <event>
@@ -106,8 +101,7 @@
                     <date type="end" year="2017" />
                     <title lang="sv">Som sekreterare</title>
                     <description>
-                        Som sekreterare för jag protokoll över föreningensmöten och underhåller föreningens
-                        <link href="http://oxkallan.se">hemsida</link> och mail-system.
+                        Som sekreterare förde jag protokoll över föreningensmöten och skötte underhållet av föreningens hemsida och mail-system.
                     </description>
                 </event>
                 <event>
@@ -126,8 +120,7 @@
             <title lang="sv">Studier på kandidat-programmet i Datavetenskap vid Uppsala Universitet</title>
             <description>
                 <text>
-                    Har i nuläget läst 180hp och söker ett exjobb för att slutföra
-                    min kandidatexamen.
+                    Läste 180hp.
                 </text>
                 <tech>
                     2009-10-14: Baskurs i matematik    5 hp (1MA010), Resultat: 5
@@ -243,7 +236,7 @@
             <title lang="sv">Konverterade I&amp;T Olssons hemsida</title>
             <description>
                 <text>
-                    Jag skrev om <link href="http://ito.se">I&amp;T Olssons hemsida</link> från en statisk uppsättning HTML-dokument till en som använder Joomla.
+                    Skrev om <link href="http://ito.se">I&amp;T Olssons hemsida</link> från en statisk uppsättning HTML-dokument till en som använder Joomla.
                     Designade även om hemsidan till dess nuvarande utseende.
                 </text>
             </description>
@@ -286,7 +279,7 @@
             <title lang="sv">Arbetar för I&amp;T Olsson</title>
             <description>
                 <text>
-                    Arbetar som IT-support för I&amp;T Olsson. Jobbet involverar underhåll av företagets interna nätverk, installation av ny hårdvara/mjukvara,
+                    Arbetade som IT-support för I&amp;T Olsson. Jobbet involverar underhåll av företagets interna nätverk, installation av ny hårdvara/mjukvara,
                     felsökning av nuvarande hårdvaru/mjukvaru-lösningar samt periodvis underhåll av företagets hemsida.
                 </text>
             </description>
