@@ -16,6 +16,9 @@
                     
                     <div class="footer">
                         <div class="footer-content">
+                            <p class="meta">
+                                CV - Joakim olsson
+                            </p>
                             <p class="lastupdated meta">
                                 <xsl:apply-templates select="lastupdated" />
                             </p>
@@ -23,7 +26,9 @@
                                 Det här dokumentet skapades i XSL.
                             </p>
                             <p class="meta">
-                                Originalet finner du här: <a href="https://cv.adicitus.com">https://cv.adicitus.com</a>
+                                <a href="https://cv.adicitus.com">
+                                    https://cv.adicitus.com
+                                </a>
                             </p>
                             <a href="https://jigsaw.w3.org/css-validator/" class="css-validated">
                                 <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />

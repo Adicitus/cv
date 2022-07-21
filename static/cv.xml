@@ -7,7 +7,7 @@
     </title>
     
     <lastupdated>
-        <date year="2022" month="7" day="16" />
+        <date year="2022" month="7" day="21" />
     </lastupdated>
     
     <header>
@@ -326,7 +326,7 @@
         <title lang="sv">Tekniska färdigheter</title>
         <section name="programming">
             <title lang="sv">Programmering</title>
-            <text lang="sv">Programmerings- och markdown-språk som jag har erfartenhet av att arbeta i.</text>
+            <text lang="sv">Programmerings- och markdown-språk som jag har erfartenhet av att arbeta med.</text>
             <tech>CSS</tech>
             <tech>HTML</tech>
             <tech>Java</tech>
@@ -354,7 +354,6 @@
             <tech>bash</tech>
             <tech>Docker</tech>
             <tech>Docker-Compose</tech>
-            <tech>Multipass</tech>
             <tech>Apache Guacamole</tech>
             <tech>DNS</tech>
             <tech>DHCP</tech>
