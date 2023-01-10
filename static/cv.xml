@@ -358,7 +358,7 @@
             <tech>DNS</tech>
             <tech>DHCP</tech>
             <tech>SPF</tech>
-            <tech>DMARC<tech>
+            <tech>DMARC</tech>
             <tech>SMTP</tech>
         </section>
         <section name="cloud">
