@@ -30,7 +30,7 @@
                                     https://cv.adicitus.com
                                 </a>
                             </p>
-                            <a href="https://jigsaw.w3.org/css-validator/" class="css-validated">
+                            <a href="http://jigsaw.w3.org/css-validator/validator?lang=sv&profile=css3svg&uri=https%3A%2F%2Fcv.adicitus.com%2Fstyle.css&usermedium=all&vextwarning=&warning=1" class="css-validated">
                                 <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />
                             </a>
                         </div>

@@ -7,7 +7,7 @@
     </title>
     
     <lastupdated>
-        <date year="2022" month="7" day="21" />
+        <date year="2023" month="1" day="10" />
     </lastupdated>
     
     <header>
@@ -358,13 +358,20 @@
             <tech>DNS</tech>
             <tech>DHCP</tech>
             <tech>SPF</tech>
-            <tech>DMARC</tech>
+            <tech>DMARC<tech>
             <tech>SMTP</tech>
+        </section>
+        <section name="cloud">
+            <title>Cloud</title>
+            <text>Molnlösnngar som jag har erfarenhet av att arbeta inom.</text>
+            <tech>Github</tech>
+            <tech>Microsoft 365 (+Azure/AzureAD)</tech>
+            <tech>Digital Ocean</tech>
         </section>
         <section name="operatingSystems">
             <title lang="sv">Operativsystem</title>
             <text lang="sv">Operativsystem som jag är bekväm med att arbeta i.</text>
-            <tech>Linux</tech>
+            <tech>Linux (Främst Ubuntu och CentOS)</tech>
             <tech>Windows</tech>
         </section>
     </section>
