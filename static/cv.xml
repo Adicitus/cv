@@ -61,6 +61,69 @@
             <value><adress street="Torbjörnsgatan" number="6" city="Uppsala" postalnumber="75335" /></value>
         </info>
     </section>
+    <section name="languages" break-before="true">
+        <title lang="sv">Språk</title>
+        <text lang="sv">Språk som jag har god förståelse för.</text>
+        <language>
+            <name lang="sv">Engelska</name>
+        </language>
+        <language>
+            <name lang="sv">Svenska</name>
+        </language>
+    </section>
+    <section name="technologies">
+        <title lang="sv">Tekniska färdigheter</title>
+        <section name="programming">
+            <title lang="sv">Programmering</title>
+            <text lang="sv">Programmerings- och markdown-språk som jag har erfartenhet av att arbeta med.</text>
+            <tech>CSS</tech>
+            <tech>HTML</tech>
+            <tech>Java</tech>
+            <tech>JavaScript</tech>
+            <tech>PHP</tech>
+            <tech>SQL</tech>
+            <tech>XML</tech>
+            <tech>XSL</tech>
+            <tech>YML</tech>
+            <tech>JSON</tech>
+        </section>
+        <section name="software">
+            <title lang="sv">Verktyg</title>
+            <text lang="sv">Program och ramverk som jag har erfartenhet av att använda.</text>
+            <tech>Git</tech>
+            <tech>Node.js</tech>
+            <tech>React</tech>
+            <tech>Powershell</tech>
+            <tech>Visual Studio Code</tech>
+            <tech>Azure</tech>
+            <tech>Azure AD</tech>
+            <tech>Active Directory</tech>
+            <tech>Microsoft InTune</tech>
+            <tech>SSH</tech>
+            <tech>bash</tech>
+            <tech>Docker</tech>
+            <tech>Docker-Compose</tech>
+            <tech>Apache Guacamole</tech>
+            <tech>DNS</tech>
+            <tech>DHCP</tech>
+            <tech>SPF</tech>
+            <tech>DMARC</tech>
+            <tech>SMTP</tech>
+        </section>
+        <section name="cloud">
+            <title>Cloud</title>
+            <text>Molnlösnngar som jag har erfarenhet av att arbeta inom.</text>
+            <tech>Github</tech>
+            <tech>Microsoft 365 (+Azure/AzureAD)</tech>
+            <tech>Digital Ocean</tech>
+        </section>
+        <section name="operatingSystems">
+            <title lang="sv">Operativsystem</title>
+            <text lang="sv">Operativsystem som jag är bekväm med att arbeta i.</text>
+            <tech>Linux (Främst Ubuntu och CentOS)</tech>
+            <tech>Windows</tech>
+        </section>
+    </section>
     <section name="history" break-before="true">
         <title lang="sv">Historik</title>
         <text lang="sv">
@@ -279,7 +342,7 @@
         <event>
             <date type="start" year="2006" month="1" />
             <date type="end" year="2009" />
-            <title lang="sv">Arbetar för I&amp;T Olsson</title>
+            <title lang="sv">Arbetade för I&amp;T Olsson</title>
             <description>
                 <text>
                     Arbetade som IT-support för I&amp;T Olsson. Jobbet involverar underhåll av företagets interna nätverk, installation av ny hårdvara/mjukvara,
@@ -311,68 +374,5 @@
                 </text>
             </description>
         </event>
-    </section>
-    <section name="languages" break-before="true">
-        <title lang="sv">Språk</title>
-        <text lang="sv">Språk som jag har god förståelse för.</text>
-        <language>
-            <name lang="sv">Engelska</name>
-        </language>
-        <language>
-            <name lang="sv">Svenska</name>
-        </language>
-    </section>
-    <section name="technologies">
-        <title lang="sv">Tekniska färdigheter</title>
-        <section name="programming">
-            <title lang="sv">Programmering</title>
-            <text lang="sv">Programmerings- och markdown-språk som jag har erfartenhet av att arbeta med.</text>
-            <tech>CSS</tech>
-            <tech>HTML</tech>
-            <tech>Java</tech>
-            <tech>JavaScript</tech>
-            <tech>PHP</tech>
-            <tech>SQL</tech>
-            <tech>XML</tech>
-            <tech>XSL</tech>
-            <tech>YML</tech>
-            <tech>JSON</tech>
-        </section>
-        <section name="software">
-            <title lang="sv">Verktyg</title>
-            <text lang="sv">Program och ramverk som jag har erfartenhet av att använda.</text>
-            <tech>Git</tech>
-            <tech>Node.js</tech>
-            <tech>React</tech>
-            <tech>Powershell</tech>
-            <tech>Visual Studio Code</tech>
-            <tech>Azure</tech>
-            <tech>Azure AD</tech>
-            <tech>Active Directory</tech>
-            <tech>Microsoft InTune</tech>
-            <tech>SSH</tech>
-            <tech>bash</tech>
-            <tech>Docker</tech>
-            <tech>Docker-Compose</tech>
-            <tech>Apache Guacamole</tech>
-            <tech>DNS</tech>
-            <tech>DHCP</tech>
-            <tech>SPF</tech>
-            <tech>DMARC</tech>
-            <tech>SMTP</tech>
-        </section>
-        <section name="cloud">
-            <title>Cloud</title>
-            <text>Molnlösnngar som jag har erfarenhet av att arbeta inom.</text>
-            <tech>Github</tech>
-            <tech>Microsoft 365 (+Azure/AzureAD)</tech>
-            <tech>Digital Ocean</tech>
-        </section>
-        <section name="operatingSystems">
-            <title lang="sv">Operativsystem</title>
-            <text lang="sv">Operativsystem som jag är bekväm med att arbeta i.</text>
-            <tech>Linux (Främst Ubuntu och CentOS)</tech>
-            <tech>Windows</tech>
-        </section>
     </section>
 </cv>
