@@ -7,7 +7,7 @@
     </title>
     
     <lastupdated>
-        <date year="2023" month="1" day="10" />
+        <date year="2023" month="6" day="11" />
     </lastupdated>
     
     <header>
@@ -18,16 +18,10 @@
         <title lang="sv">Introduktion</title>
         <text>
             <p>
-                Spenderade 6 år på Cornerstone Group AB, där jag jobbat som installationstekniker i ett litet team.
-            </p>
-            <p>
-                Som del av mitt arbete skötte jag främst administration och utveckling av våra kurs-miljöer (bl.a. MDT, WDS, Docker, Guacamole, RDGS och mycket PowerShell) och associerade system (MSSQL, MSCRM, nätverk och övervakningssystem).
+                Jag är en IT-tekniker med erfarenhet av att jobba i små team med mycket eget ansvar och högt tempo.
             </p>
             <p>
                 Vid sidan av studerar jag programmering, främst med inriktning på full-stack med Node.js som back-end.
-            </p>
-            <p>
-                Jag letar nu efter en roll som junior system admin, IT-tekniker eller full-stack utvecklare där jag har chans att vidareutveckla mina existerande kunskaper i ett lite större team.
             </p>
             <p>
                 Exempel på mitt arbete finns på <link href="https://github.com/Adicitus">Github</link>
@@ -76,39 +70,41 @@
         <section name="programming">
             <title lang="sv">Programmering</title>
             <text lang="sv">Programmerings- och markdown-språk som jag har erfartenhet av att arbeta med.</text>
+            <tech>C#</tech>
             <tech>CSS</tech>
             <tech>HTML</tech>
             <tech>Java</tech>
             <tech>JavaScript</tech>
+            <tech>JSON</tech>
             <tech>PHP</tech>
+            <tech>Python</tech>
             <tech>SQL</tech>
             <tech>XML</tech>
             <tech>XSL</tech>
             <tech>YML</tech>
-            <tech>JSON</tech>
         </section>
         <section name="software">
             <title lang="sv">Verktyg</title>
             <text lang="sv">Program och ramverk som jag har erfartenhet av att använda.</text>
-            <tech>Git</tech>
-            <tech>Node.js</tech>
-            <tech>React</tech>
-            <tech>Powershell</tech>
-            <tech>Visual Studio Code</tech>
+            <tech>Active Directory</tech>
+            <tech>Apache Guacamole</tech>
             <tech>Azure</tech>
             <tech>Azure AD</tech>
-            <tech>Active Directory</tech>
-            <tech>Microsoft InTune</tech>
-            <tech>SSH</tech>
             <tech>bash</tech>
+            <tech>DHCP</tech>
+            <tech>DNS</tech>
+            <tech>DMARC</tech>
             <tech>Docker</tech>
             <tech>Docker-Compose</tech>
-            <tech>Apache Guacamole</tech>
-            <tech>DNS</tech>
-            <tech>DHCP</tech>
-            <tech>SPF</tech>
-            <tech>DMARC</tech>
+            <tech>Git</tech>
+            <tech>Node.js</tech>
+            <tech>Powershell</tech>
+            <tech>Microsoft InTune</tech>
             <tech>SMTP</tech>
+            <tech>SPF</tech>
+            <tech>SSH</tech>
+            <tech>React</tech>
+            <tech>Visual Studio Code</tech>
         </section>
         <section name="cloud">
             <title>Cloud</title>
@@ -136,11 +132,17 @@
             <description>
                 <text>
                     <p>
+                        Spenderade 6 år på Cornerstone Group AB, där jag jobbat som installationstekniker i ett litet team.
+                    </p>
+                    <p>
                         Som installationstekniker så var jag främst ansvarig för deployment av labbmiljöer för utbildning.
                     </p>
                     <p>
                         Därtill så var jag även ansvarig för närliggande delar av verksamheten: utveckling och underhåll av de mjukvaruverktyg,
                         nätverk och labbmaskiner som krävdes för kursverksamheten.
+                    </p>
+                    <p>
+                        Som del av mitt arbete skötte jag främst administration och utveckling av våra kurs-miljöer (bl.a. MDT, WDS, Docker, Guacamole, RDGS och mycket PowerShell) och associerade system (MSSQL, MSCRM, nätverk och övervakningssystem).
                     </p>
                 </text>
             </description>

@@ -22,17 +22,6 @@
                             <p class="lastupdated meta">
                                 <xsl:apply-templates select="lastupdated" />
                             </p>
-                            <p>
-                                Det här dokumentet skapades i XSL.
-                            </p>
-                            <p class="meta">
-                                <a href="https://cv.adicitus.com">
-                                    https://cv.adicitus.com
-                                </a>
-                            </p>
-                            <a href="http://jigsaw.w3.org/css-validator/validator?lang=sv&amp;profile=css3svg&amp;uri=https%3A%2F%2Fcv.adicitus.com%2Fstyle.css&amp;usermedium=all&amp;vextwarning=&amp;warning=1" class="css-validated">
-                                <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />
-                            </a>
                         </div>
                     </div>
                 </div>
