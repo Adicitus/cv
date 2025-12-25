@@ -7,7 +7,7 @@
     </title>
     
     <lastupdated>
-        <date year="2023" month="6" day="11" />
+        <date year="2025" month="12" day="23" />
     </lastupdated>
     
     <header>
@@ -21,10 +21,10 @@
                 Jag är en IT-tekniker med erfarenhet av att jobba i små team med mycket eget ansvar och högt tempo.
             </p>
             <p>
-                Vid sidan av studerar jag programmering, främst med inriktning på full-stack med Node.js som back-end.
+                På fritiden pysslar jag med programmering och 3D-printing.
             </p>
             <p>
-                Exempel på mitt arbete finns på <link href="https://github.com/Adicitus">Github</link>
+                Exempel på mitt arbete finns på <link href="https://github.com/Adicitus">Github</link>, <link href="https://www.powershellgallery.com/profiles/Adicitus">PowerShell Gallery</link> och <link href="https://www.npmjs.com/~adicitus">npmjs.com</link>
             </p>
         </text>
     </section>
@@ -85,7 +85,7 @@
         </section>
         <section name="software">
             <title lang="sv">Verktyg</title>
-            <text lang="sv">Program och ramverk som jag har erfartenhet av att använda.</text>
+            <text lang="sv">Program, ramverk och protokoll som jag har erfartenhet av att använda.</text>
             <tech>Active Directory</tech>
             <tech>Apache Guacamole</tech>
             <tech>Azure</tech>
@@ -100,10 +100,11 @@
             <tech>Node.js</tech>
             <tech>Powershell</tech>
             <tech>Microsoft InTune</tech>
+            <tech>React</tech>
+            <tech>SCAD</tech>
             <tech>SMTP</tech>
             <tech>SPF</tech>
             <tech>SSH</tech>
-            <tech>React</tech>
             <tech>Visual Studio Code</tech>
         </section>
         <section name="cloud">
@@ -125,6 +126,21 @@
         <text lang="sv">
             <p>Den här sektionen listar i kronologisk ordning (efter slutdatum) utbildningar, uppdrag och jobb som jag utfört under mitt liv.</p>
         </text>
+        <event>
+            <date type="start" year="2023" month="9" />
+            <date type="end" year="2025" month="7" />
+            <title>Garanti-/Datacenter-tekniker för ZT Systems</title>
+            <description>
+                <text>
+                    <p>
+                        Arbetade som garanti-tekniker för ZT Systems i Gävle hos deras kunder i Gävle och Sandviken kommun.
+                    </p>
+                    <p>
+                        Som garanti-tekniker på datacenter så arbetade jag i ett team som hanterade felsökning och reparation av servrar för hyperscaling GPU Compute.
+                    </p>
+                </text>
+            </description>
+        </event>
         <event>
             <date type="start" year="2016" month="9" />
             <date type="end" year="2022" month="7" />
